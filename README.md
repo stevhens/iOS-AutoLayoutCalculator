@@ -8,4 +8,4 @@ This app used to learn constraints that this app can be displayed on other dimen
 
 # Screenshot
 
-![Calculator Screenshot](Documentation/iOS-BasicCalculator.png)
+![Calculator-Screenshot](Documentation/iOS-BasicCalculator.png)
