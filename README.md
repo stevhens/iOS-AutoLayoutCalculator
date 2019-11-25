@@ -1,6 +1,6 @@
 # Basic Calculator
 
-This is an auto layout calculator app
+This is an auto layout calculator app.
 
 # Outline
 
